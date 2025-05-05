@@ -1,0 +1,93 @@
+# Unity generated files and folders
+/[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ww]eb*/
+[Rr]ecordings/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Unity cache server
+/[Cc]ache[Ss]erver/
+
+# Unity package manager
+# /[Pp]ackages/
+
+# Visual Studio / Rider / other IDEs
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vsconfig
+
+# JetBrains Rider
+.idea/
+*.iml
+
+# Unity crash reports and logs
+sysinfo.txt
+/[Cc]rash[Rr]eport*/
+/[Rr]eplay*/
+
+# Dependency files
+*.depend
+*.layout
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Exclude sensitive or local config files
+*.asset
+*.unity
+*.prefab
+*.mat
+*.anim
+*.controller
+*.overrideController
+*.physicMaterial
+*.physicsMaterial2D
+*.playable
+*.shader
+*.cginc
+*.giparams
+*.lighting
+*.lightmap
+*.gi
+*.flare
+*.exr
+*.mask
+*.brush
+*.terrainlayer
+*.guiskin
+
+# Exclude build-specific files
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+
+# Exclude user-specific Unity settings
+/[Uu]ser[Ss]ettings/[Aa]sset[Ss]tore*/
+/[Uu]ser[Ss]ettings/[Ee]ditor[Uu]ser[Ss]ettings.asset
+/[Uu]ser[Ss]ettings/[Pp]roject[Ss]ettings.asset
